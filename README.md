@@ -1,1 +1,1 @@
-# Software-Technologies
+### This course focuses on learning the basics of C#, Java, JavaScript and PHP. A calculator and blog are build in the four languages. The idea of the course is to introduce these technologies and let us pick with which we want to start our programming carеer.
